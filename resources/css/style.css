@@ -1,0 +1,21 @@
+nav {
+    display: inline-flex;
+    color: gray;
+}
+
+.logo{
+    display:flex;
+    width:400px;
+}
+
+header{
+    display: flex;
+    position:fixed;
+    width: 100%;
+    font-weight: bold;
+    color: aqua;
+}
+
+header img{
+    width: 100%;
+}
